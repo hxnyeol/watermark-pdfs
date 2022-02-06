@@ -32,5 +32,5 @@ def addWaterMark():
                     output.write(result)
 
 
-# Main
+# This is the main
 addWaterMark()
