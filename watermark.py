@@ -30,7 +30,3 @@ def addWaterMark():
                 with open(f"{out_direc}{file_name}-converted.pdf", "wb") as result:
 
                     output.write(result)
-
-
-# This is the main
-addWaterMark()
